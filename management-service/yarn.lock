@@ -6853,17 +6853,17 @@ supports-hyperlinks@^2.0.0:
     has-flag "^4.0.0"
     supports-color "^7.0.0"
 
-swagger-ui-dist@^3.18.1:
-  version "3.37.2"
-  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-3.37.2.tgz#b250ae8d0b3b5ee15b6eb7a53aa9b69cd5888ad3"
-  integrity sha512-XIT4asxgeL4GUNPPsqpEqLt20M/u6OhFYqTh42IoEAvAyv5e9EGw5uhP9dLAD10opcMYqdkJ5qU+MpN2HZ5xyA==
+swagger-ui-dist@>=4.11.0:
+  version "5.9.4"
+  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-5.9.4.tgz#668256c12892519201406ae74777a60ebdfbfb92"
+  integrity sha512-Ppghvj6Q8XxH5xiSrUjEeCUitrasGtz7v9FCUIBR/4t89fACQ4FnUT9D0yfodUYhB+PrCmYmxwe/2jTDLslHDw==
 
-swagger-ui-express@^4.1.5:
-  version "4.1.5"
-  resolved "https://registry.yarnpkg.com/swagger-ui-express/-/swagger-ui-express-4.1.5.tgz#114f3ce017ca6d6069d960ea8ffef677784b6f2f"
-  integrity sha512-hs9OqBu2jwmhYyFUhdTiwurvbZC+bq2XnWmmbYymVdwhgJCcGkLdnqymX24ZYUve2nkYSvKPEDCo20ZF+vyw9A==
+swagger-ui-express@^4.2.0:
+  version "4.6.3"
+  resolved "https://registry.yarnpkg.com/swagger-ui-express/-/swagger-ui-express-4.6.3.tgz#870d0892654fe80e6970a2d680e22521acd2dc19"
+  integrity sha512-CDje4PndhTD2HkgyKH3pab+LKspDeB/NhPN2OF1j+piYIamQqBYwAXWESOT1Yju2xFg51bRW9sUng2WxDjzArw==
   dependencies:
-    swagger-ui-dist "^3.18.1"
+    swagger-ui-dist ">=4.11.0"
 
 symbol-observable@1.2.0:
   version "1.2.0"
